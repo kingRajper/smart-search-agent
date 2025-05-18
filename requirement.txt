@@ -1,0 +1,8 @@
+langgraph 
+langchain 
+tavily-python 
+wikipedia 
+openai
+streamlit
+dotenv
+pdfkit
